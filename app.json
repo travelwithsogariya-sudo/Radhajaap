@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "RadhaJaap",
+    "slug": "radhajaap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF7F2"
+      }
+    }
+  }
+}
